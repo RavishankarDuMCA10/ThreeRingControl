@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author             = { "Ravi Kushwaha" => "ravi.kushwaha@nagarro.com" }
   s.platform     = :ios, "9.0"
-  s.source       = { :git => "https://github.com/RavishankarDuMCA10/ThreeRingControl", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/RavishankarDuMCA10/ThreeRingControl.git", :tag => "1.0.0" }
   s.source_files = "ThreeRingControl", "ThreeRingControl/**/*.{h,m,swift}"
   s.resources    = "ThreeRingControl/*.mp3"
 
